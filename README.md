@@ -4,7 +4,9 @@
 A mobile-first, interactive prototype for a consumer-facing post-purchase offer embedded on an order-confirmation page.
 
 **Live prototype:** https://post-purchase-offer-widget.netlify.app/
-**Prototype controls:** the sidebar lets a reviewer switch purchase scenario and interaction state. These are dev-only scaffolding, not part of the consumer experience. The **Empty** variant is labeled *"Empty, reviewer only"* for the same reason: a real shopper should never see it (more on why below).
+**Prototype/Walkthrough controls:** the sidebar lets a reviewer switch purchase scenario and interaction state. 
+These are dev-only scaffolding, not part of the consumer experience. 
+The **Empty** variant is labeled *"Empty, reviewer only"* for the same reason: a real shopper should never see it (more on why below).
 
 ---
 
